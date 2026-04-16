@@ -96,8 +96,8 @@ tests/                     # Feature/Unit tests
 Developed for educational and internship purposes.
 
 ## 📫 Contact
-**LinkedIn:** linkedin.com/in/fz-namaoui
-**Email:** fatimazahranamaoui90@gmail.com
+- **LinkedIn:** linkedin.com/in/fz-namaoui
+- **Email:** fatimazahranamaoui90@gmail.com
 
 ## Built with Laravel & MySQL
 
