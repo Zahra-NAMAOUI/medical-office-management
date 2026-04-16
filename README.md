@@ -79,19 +79,19 @@ tests/                     # Feature/Unit tests
 
 ## 🎯 Technical Highlights
 
-**MVC Pattern:** Clean architecture with Laravel framework
-**Eloquent ORM:** Database relationships (Patients ↔ Appointments ↔ Doctors)
-**Form Validation:** Server-side input validation
-**Database Migrations:** Version-controlled schema
-**Middleware:** Role-based access control
+- **MVC Pattern:** Clean architecture with Laravel framework.
+- **Eloquent ORM:** Database relationships (Patients ↔ Appointments ↔ Doctors)
+- **Form Validation:** Server-side input validation
+- **Database Migrations:** Version-controlled schema
+- **Middleware:** Role-based access control
 
 
 ## 📋 Project Info
-
-**Developer:** Fatimazahra Namaoui
-**Type:** Internship Project (PFA)
-**Duration:** March - April 2024
-**Institution:** ISTA NTIC Béni Mellal
+-
+-**Developer:** Fatimazahra Namaoui
+-**Type:** Internship Project (PFA)
+-**Duration:** March - April 2024
+-**Institution:** ISTA NTIC Béni Mellal
 
 ## 📄 License
 Developed for educational and internship purposes.
