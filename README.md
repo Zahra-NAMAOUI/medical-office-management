@@ -64,17 +64,24 @@ Access: http://localhost:8000
 
 ## 📁 Project Structure
 app/
+
 ├── Http/Controllers/      # Business logic
 ├── Models/                # Eloquent models
+
 database/
+
 ├── migrations/            # Database schema
 ├── seeders/               # Sample data
+
 resources/
 ├── views/                 # Blade templates
 ├── css/                   # Stylesheets
 └── js/                    # JavaScript
+
 routes/
+
 ├── web.php                # Web routes
+
 tests/                     # Feature/Unit tests
 
 ## 🎯 Technical Highlights
