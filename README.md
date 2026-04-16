@@ -108,7 +108,7 @@ routes/
 Developed for educational and internship purposes.
 
 ## 📫 Contact
-- **LinkedIn:** linkedin.com/in/fz-namaoui
+- **LinkedIn:** www.linkedin.com/in/fz-namaoui
 - **Email:** fatimazahranamaoui90@gmail.com
 
 ## Built with Laravel & MySQL
