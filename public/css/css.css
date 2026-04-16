@@ -1,0 +1,58 @@
+
+.msg:hover {
+    /* background-image: linear-gradient(to right,#fbf7d1 ,#b9e3f6); */
+    background-image: linear-gradient(to right,#f9fafb ,#e7f1f6);
+    font-size: 20px;
+    
+}
+.btn:hover{
+    background:#bae4f1 ;
+}
+.input{
+    border-radius: 30px;
+}
+.card2{
+    border-radius: 40px;
+    background-image: linear-gradient(to right,#fbf7d1 ,#b9e3f6) ;
+}
+.input-icon {
+    position: relative;
+}
+
+.input-icon input {
+    padding-left: 40px; /* Ajuster la taille du padding pour l'icône */
+}
+
+.input-icon i {
+    position: absolute;
+    top: 48%;
+    left: 20px; /* Ajuster la position de l'icône */
+    transform: translateY(-50%);
+}
+
+/* Style pour positionner l'icône à l'intérieur du textarea */
+.input-icon-msg {
+    position: relative;
+}
+
+.input-icon-msg input {
+    padding-left: 40px; /* Ajuster la taille du padding pour l'icône */
+}
+
+.input-icon-msg i {
+    position: absolute;
+    top: 15%;
+    left: 20px; /* Ajuster la position de l'icône */
+    transform: translateY(-50%);
+}
+.input-group-text i {
+    color: #6c757d;
+  }
+
+  textarea.form-control {
+    padding-left: 40px; /* Ajustez la valeur pour aligner correctement le texte */
+  }
+  
+  
+  
+
