@@ -87,11 +87,10 @@ tests/                     # Feature/Unit tests
 
 
 ## 📋 Project Info
--
--**Developer:** Fatimazahra Namaoui
--**Type:** Internship Project (PFA)
--**Duration:** March - April 2024
--**Institution:** ISTA NTIC Béni Mellal
+- **Developer:** Fatimazahra Namaoui
+- **Type:** Internship Project (PFA)
+- **Duration:** March - April 2024
+- **Institution:** ISTA NTIC Béni Mellal
 
 ## 📄 License
 Developed for educational and internship purposes.
